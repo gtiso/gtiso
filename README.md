@@ -16,6 +16,6 @@ const gtiso = {
   code: [C++, C, Python, Java, Javascript, HTML, CSS, SQL, Dart],
   tools: [React, Docker],
   architecture: ["microservices", "event-driven", "monolithic"],
-  challenge: "Build a website Tech-Stack Detector API till the end of summer"
+  challenge: "Organize and implement WSLynx app"
 }
 ```
